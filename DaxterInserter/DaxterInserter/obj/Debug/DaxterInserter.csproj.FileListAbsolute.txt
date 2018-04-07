@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\DaxterInserter\DaxterInserter\bin\Debug\DaxterInserter.exe.config
+C:\Visual Studio Projects\DaxterInserter\DaxterInserter\bin\Debug\DaxterInserter.exe
+C:\Visual Studio Projects\DaxterInserter\DaxterInserter\bin\Debug\DaxterInserter.pdb
+C:\Visual Studio Projects\DaxterInserter\DaxterInserter\obj\Debug\DaxterInserter.exe
+C:\Visual Studio Projects\DaxterInserter\DaxterInserter\obj\Debug\DaxterInserter.pdb
+C:\Visual Studio Projects\DaxterInserter\DaxterInserter\obj\Debug\DaxterInserter.csprojResolveAssemblyReference.cache

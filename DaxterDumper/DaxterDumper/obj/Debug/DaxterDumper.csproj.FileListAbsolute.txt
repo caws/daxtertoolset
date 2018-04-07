@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\DaxterDumper\DaxterDumper\bin\Debug\DaxterDumper.exe.config
+C:\Visual Studio Projects\DaxterDumper\DaxterDumper\bin\Debug\DaxterDumper.exe
+C:\Visual Studio Projects\DaxterDumper\DaxterDumper\bin\Debug\DaxterDumper.pdb
+C:\Visual Studio Projects\DaxterDumper\DaxterDumper\obj\Debug\DaxterDumper.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\DaxterDumper\DaxterDumper\obj\Debug\DaxterDumper.exe
+C:\Visual Studio Projects\DaxterDumper\DaxterDumper\obj\Debug\DaxterDumper.pdb

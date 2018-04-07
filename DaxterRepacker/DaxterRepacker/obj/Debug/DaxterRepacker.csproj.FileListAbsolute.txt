@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\DaxterRepacker\DaxterRepacker\bin\Debug\DaxterRepacker.exe.config
+C:\Visual Studio Projects\DaxterRepacker\DaxterRepacker\bin\Debug\DaxterRepacker.exe
+C:\Visual Studio Projects\DaxterRepacker\DaxterRepacker\bin\Debug\DaxterRepacker.pdb
+C:\Visual Studio Projects\DaxterRepacker\DaxterRepacker\obj\Debug\DaxterRepacker.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\DaxterRepacker\DaxterRepacker\obj\Debug\DaxterRepacker.exe
+C:\Visual Studio Projects\DaxterRepacker\DaxterRepacker\obj\Debug\DaxterRepacker.pdb
